@@ -1,0 +1,6 @@
+//simple print statement to print hello
+#include<stdio.h>
+void main()
+{
+ print("hello");
+}
