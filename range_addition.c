@@ -13,5 +13,5 @@ void main()
 	{
 		sum=sum+i;
 	}
-	printf("addition of given range is : ",sum);
+	printf("addition of given range is :%d ",sum);
 }
