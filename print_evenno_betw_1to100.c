@@ -9,7 +9,7 @@ void main()
 	{
 		if(i%2==0)
 		{
-			printf("i\n");
+			printf("%d\n"i);
 		}
 	}
 }
